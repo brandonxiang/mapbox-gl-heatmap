@@ -29,6 +29,8 @@ A small javascript web application, created on top of the mapbox gl js API, to c
 
 # Credits
 Mapbox
+
 Bootleaf
+
 AthleteDataViz
 

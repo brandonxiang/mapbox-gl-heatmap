@@ -1,4 +1,4 @@
-# mabpbox-gl-heatmap
+# mapbox-gl-heatmap
 A small javascript web application, created on top of the mapbox gl js API, to create automated heamtps from geoJSON data.  
 
 # Project Goals:

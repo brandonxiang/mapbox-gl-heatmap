@@ -1,6 +1,6 @@
 from flask import Flask, request, send_from_directory, url_for
 from flask.ext.cors import CORS
-app = Flask(__name__, static_url_path='/data')
+app = Flask(__name__, static_url_path='/static/geojson')
 CORS(app)
 
 

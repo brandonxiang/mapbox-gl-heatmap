@@ -1,7 +1,9 @@
-# mabpbox-gl-heatmap
-A small javascript web application, created on top of the mapbox gl js API, to create automated heamtps from geoJSON data.  
+# mapbox-gl-heatmap
+A small javascript web application, created on top of the mapbox gl js API, to create automated heatmaps from geoJSON data.  
 
 # Project Goals:
+
+0) Based on real-world findings using this tool, request core features to integrate into Mapbox GL-JS API with proof of concept and examples from this library.
 
 1) "Batteries Included" heatmapping tool.  Support continuous property data types from geoJson data format (no reverse geocoding required). User interface provided to select basemap, heatmap settings, geosjon properies to plot, heatmap parameter min/max bins, and color styles.
 
